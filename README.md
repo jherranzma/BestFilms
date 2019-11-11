@@ -12,6 +12,6 @@ Esta práctica se ha realizado individualmente por JUAN HERRANZ MARTÍN.
 
 · films.csv: corresponde al archivo CSV obtenido a partir de técnicas de web scraping.
 
-· Pictures.rar: corresponde al archivo comprimido con la carpeta que contiene todas las imágenes obtenidas por scraping y asociadas a cada película.
+· Pictures.rar: corresponde al archivo comprimido con la carpeta que contiene todas las imágenes (1154) obtenidas por scraping y asociadas a cada película.
 
 · Pictures: corresponde a la carpeta cuyo contenido es una muestra con las 100 primeras imágenes anteriores(lo máximo permitido por GitHub).
